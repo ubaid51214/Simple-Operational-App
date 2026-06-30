@@ -1,0 +1,36 @@
+body{
+  /* background-image: url(./download.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 10px;
+}
+.punchline{
+  color: rgba(246, 246, 246, 0.708);
+  display: flex;
+  justify-content: center;
+}
+.App .product{
+  background-color: rgba(255, 255, 255, 0.363);
+  border-radius: 20px;
+  width: 300px;
+  height: 350px;
+  margin: 20px 100px 100px 490px;
+  
+}
+.product h4{
+  color: aliceblue;
+  display: flex;
+  padding: 300px 0px 0px 130px;
+  background-image: url(./download\ \(1\).png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: 230px 295px;
+  cursor: pointer;
+}
+.footer{
+  color: antiquewhite;
+  display: flex;
+  justify-content: end;
+  margin: 0px 40px 0px 0px;
+  cursor: pointer;
+}
